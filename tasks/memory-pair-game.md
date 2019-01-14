@@ -10,7 +10,7 @@ We learned a lot, but now let's do some practice!
 In this section you will create _Memory - Pair Game_ — a card game in which
 all of the cards are laid face down on a surface and two cards are flipped
 face up over each turn. The object of the game is to turn over pairs
-of matching cards. The game ends when the last pair has been picked up.
+of matching cards. The game ends when the last pair has been picked up. Next game starts automatically or user is able to restart the game manually.
 
 ![Pair Game Example](https://i.imgur.com/dT2VQ9W.gif)
 
